@@ -1,7 +1,14 @@
 ### Michael Gaskill
 I'm an Entrepreneur, Technical Leader, Software Architect, and Software Engineer.  I like be innovative, solve hard problems, crunch data, reach people, and build amazing products that people love to use.
 
-Find me here:
+<div align="center">center</div
+>
+#### How I proudly identify
+| Marine Corps Veteran | Rails Engineer | C++ Engineer | Entrepreneur | Comic Book Guy |
+| ------------------- | -------------- | ------------ | ------------ | ---------- |
+| ![USMC logo](usmc.png) | ![Ruby on Rails logo](rails.png) | ![C++ logo](cpp.png) | ![Entrepreneur](entrepreneur.png) | ![Comic Book Guy](comic-book-guy.png) |
+
+#### Find me here
 * Website: [michaelgaskill.com](http://michaelgaskill.com)
 * Github: [/github.com/mgaskill](https://github.com/mgaskill)
 * LinkedIn: [linkedin.com/in/mgaskill](https://www.linkedin.com/in/mgaskill)
