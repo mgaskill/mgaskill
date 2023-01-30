@@ -1,16 +1,11 @@
-### Hi there 👋
+### Michael Gaskill
+I'm an Entrepreneur, Technical Leader, Software Architect, and Software Engineer.  I like be innovative, solve hard problems, crunch data, reach people, and build amazing products that people love to use.
 
-<!--
-**mgaskill/mgaskill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me here:
+* Website: [michaelgaskill.com](http://michaelgaskill.com)
+* Github: [/github.com/mgaskill](https://github.com/mgaskill)
+* LinkedIn: [linkedin.com/in/mgaskill](https://www.linkedin.com/in/mgaskill)
+* Stack Overflow: [stackoverflow.com/users/6263819/michael-gaskill](http://stackoverflow.com/users/6263819/michael-gaskill)
+* CrunchBase: [crunchbase.com/person/michael-gaskill](https://www.crunchbase.com/person/michael-gaskill)
+* AngelList: [angel.co/michael-gaskill](https://angel.co/michael-gaskill)
+* Gandysoft: [gandysoft.com/about](https://gandysoft.com/about)
